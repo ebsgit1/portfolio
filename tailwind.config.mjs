@@ -10,6 +10,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        text: "#000000"
       },
       fontFamily: {
         comfortaa: ["Comfortaa"],
