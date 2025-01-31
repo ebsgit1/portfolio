@@ -3,10 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="relative w-full bg-[#FBEED9]">
-      {/* Hero Section */}
       <section className="relative w-full h-[550px] sm:h-[650px] flex items-center bg-yellow-500 overflow-hidden">
         <div className="relative z-10 flex flex-col sm:flex-row items-center max-w-6xl mx-auto px-6 w-full">
-          {/* Text Section */}
           <div className="w-full sm:w-1/2 text-left text-black">
             <h1 className="text-5xl sm:text-6xl font-bold font-comfortaa">Hello,</h1>
             <h2 className="text-4xl sm:text-5xl font-bold font-comfortaa">my name is</h2>
