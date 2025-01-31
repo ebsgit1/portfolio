@@ -22,7 +22,7 @@ export default function Projects() {
             <Link href="https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=63-647&t=xQ5QUrIkJ2flyA5B-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=63%3A517&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">
               <Image src="/carbon.png" alt="Carbon Companion" width={150} height={300} className="rounded-lg shadow-md hover:scale-105 transition-transform" />
             </Link>
-            <Link href="https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=63-647&t=xQ5QUrIkJ2flyA5B-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=63%3A517&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.figma.com/proto/ravutbXAyTtnFXwpQTGtHD/MUO-E3060---Week-3?node-id=18-144&t=m8dqRIMzQsho5v8b-1" target="_blank" rel="noopener noreferrer">
               <Image src="/sightseeing.png" alt="Sightseeing App" width={150} height={300} className="rounded-lg shadow-md hover:scale-105 transition-transform" />
             </Link>
             <Link href="https://www.figma.com/proto/SR8c8Q2Q0riP4ouIWJRkYd/AskareAppi?node-id=8-393&p=f&t=HkkbwThC1kc38MUp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A393&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">
@@ -43,7 +43,7 @@ export default function Projects() {
           </p>
           </div>
           <div className="md:w-1/2 w-full flex justify-center gap-4">
-            <Link href="/askare-app">
+            <Link href="https://github.com/ebsgit1/AskareAppi_final">
               <Image src="/askareappi.png" alt="Askare App" width={300} height={450} className="rounded-lg shadow-md hover:scale-105 transition-transform" />
             </Link>
           </div>
