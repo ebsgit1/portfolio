@@ -1,3 +1,3 @@
 export default function Contact() {
-    "moi"
+    return <div>Contact</div>;
 }
